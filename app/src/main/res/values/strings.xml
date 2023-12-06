@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">APPu1a1_lorena_sanchez</string>
+    <string name="lblTitulo">Cálculo del MCM</string>
+    <string name="btnCalcular">Calcular</string>
+    <string name="inputN1Hint">Número 1</string>
+    <string name="inputN2Hint">Número 2</string>
+    <string name="lblResultado">El MCM de %1$s y %2$s \n es %3$s</string>
+    <string name="lblSubtitulo1">¿Qué es el mínimo común múltiplo?</string>
+    <string name="lblSubtitulo2">Es el número más pequeño por el que ambos números dados pueden dividirse teniendo de resto 0.</string>
+    <string name="bottomText">made with &lt;3\nLorena Sánchez</string>
+    <string name="descImage1">Imagen de un dibujo de un cerebro con mancuernas</string>
+
+</resources>
